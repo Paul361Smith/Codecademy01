@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: powderblue;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: midnightblue;
+    text-align: left;
+  }
+  
+  table {
+    border: 2px solid slategrey;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: steelblue ;
+  }
+  
+  td {
+    border-top: 1px solid slategray;
+    background-color: skyblue
+  }
+  
+  .code {
+    font-family: Courier, monospace;
+    background-color: silver;
+  }
+
+  .footnote {
+    font-size: x-small;
+  }
